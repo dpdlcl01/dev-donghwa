@@ -10,8 +10,7 @@ permalink: /
 # 👨‍💻 홍동화 | Backend Developer  
 _데이터 흐름 중심의 설계, 의미 기반 분석 시스템, 그리고 팀 리딩 경험을 갖춘 개발자_
 
-- 📍 서울, 대한민국  
-- 📫 hong.dev@example.com  
+- 📫 dpdlcl0111@gmail.com  
 - 💻 [GitHub](https://github.com/dpdlcl01) ｜ [Blog](https://publish.obsidian.md/your-blog-link)  
 - 📝 [[PDF 이력서 다운로드]] (선택)
 
